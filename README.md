@@ -15,7 +15,4 @@ Requirements: Node.js 18 or newer.
 ```bash
 npm install
 npm run dev
-Open the local URL printed by Vite (normally http://localhost:5173). To create a production build:
-npm run build
-npm run preview
 
