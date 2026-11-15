@@ -6,7 +6,7 @@ An interactive, browser-based space mission design simulator inspired by NASA’
 
 ## Live Demo
 
-* **Web App:** [https://orbitwright-vpqb.vercel.app/](https://orbitwright-vpqb.vercel.app/)
+* **Web App:** [https://orbitwright-delta.vercel.app/](https://orbitwright-delta.vercel.app/)
 
 ## Run Locally
 
